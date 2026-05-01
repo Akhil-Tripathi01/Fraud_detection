@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.env
+fraud_detection.db
+backend*.log
+node_modules/
+dist/
